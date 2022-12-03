@@ -204,15 +204,6 @@ https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7xWTlr.png" group-title="Movies",Rakuten Spotlight
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
-http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb&tm=1626349319&un=rommel07
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",MBC Max
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",MBC Max
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=
-
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -285,18 +276,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a
 
 #EXTINF:0 type="favorites" channelId="1455" group-title="Documentary" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", History (Opt-2)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="https://cdn.tvpassport.com/image/station/100x100/pbsworldchannel.png", World Channel
-http://v-ny.theus6tv.duckdns.org/hls/21.3/playlist.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="", H2
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="", National Geographic
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="", Viasat History
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
