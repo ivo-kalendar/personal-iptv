@@ -33,7 +33,7 @@ http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
 #EXTINF:0 channelId="8" group-title="Македонски Канали",Alsat M
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 
-#EXTINF:0 channelId="9" group-title="Македонски Канали",Хуго 2
+#EXTINF:0 channelId="9" group-title="Македонски Канали",Hugo 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 
 #EXTINF:0 channelId="10" group-title="Македонски Канали",TV 21
