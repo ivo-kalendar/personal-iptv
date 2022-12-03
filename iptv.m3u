@@ -2,6 +2,69 @@
 
 
 
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////                        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////    МАКЕДОНСКА ЛИСТА    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////                        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:0 channelId="1" group-title="Македонски Канали",МРТ 1
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+
+#EXTINF:0 channelId="2" group-title="Македонски Канали",МРТ 2
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+
+#EXTINF:0 channelId="3" group-title="Македонски Канали",МРТ 3 Sobraniski Kanal
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+
+#EXTINF:0 channelId="4" group-title="Македонски Канали",Сител
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+
+#EXTINF:0 channelId="5" group-title="Македонски Канали",Канал 5
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
+
+#EXTINF:0 channelId="6" group-title="Македонски Канали",Телма
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+
+#EXTINF:0 channelId="7" group-title="Македонски Канали",ТВ 24
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
+
+#EXTINF:0 channelId="8" group-title="Македонски Канали",Alsat M
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+
+#EXTINF:0 channelId="9" group-title="Македонски Канали",TV 21
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+
+#EXTINF:0 channelId="10" group-title="Македонски Канали",Хуго 2
+http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
+
+#EXTINF:0 channelId="11" group-title="Македонски Канали",Наша TV
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
+
+#EXTINF:0 channelId="12" group-title="Македонски Канали",МТМ Скопска
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+
+#EXTINF:0 channelId="13" group-title="Македонски Канали",Алфа
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+
+#EXTINF:0 channelId="14" group-title="Македонски Канали",TV Shenja
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+
+#EXTINF:0 channelId="15" group-title="Македонски Канали",TV ERA
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+
+#EXTINF:0 channelId="16" group-title="Македонски Канали",TV Шутел
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////                        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////    Тест Листа          /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -22,69 +85,6 @@ http://fta.hugo.mk:1936/live/tvhugo/stream/2.m3u8
 
 #EXTINF:-1 channelId="1" tvg-name="Test vod" tvg-logo="" group-title="Тест Канали",test vod
 http://moviesjoy.to/watch-movie/black-adam-82087.9064972
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/////////////////////////////////////                        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/////////////////////////////////////    МАКЕДОНСКА ЛИСТА    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/////////////////////////////////////                        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-#EXTINF:-1 channelId="1" tvg-name="МРТ 1" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-mrt1.jpg" group-title="Македонски Канали",MRT 1
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
-
-#EXTINF:-1 channelId="2" tvg-name="МРТ 2" tvg-logo="" group-title="Македонски Канали",MRT 2
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-
-#EXTINF:-1 channelId="3" tvg-name="МРТ 3 Собраниски Канал" tvg-logo="" group-title="Македонски Канали",MRT 3 Sobraniski Kanal
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
-
-#EXTINF:-1 channelId="4" tvg-name="Сител" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-sitel.jpg" group-title="Македонски Канали",Sitel
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
-
-#EXTINF:-1 channelId="5" tvg-name="Канал 5" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-kanal5.jpg" group-title="Македонски Канали",Kanal 5
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
-
-#EXTINF:-1 channelId="6" tvg-name="Телма" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-telma.jpg" group-title="Македонски Канали",Telma
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
-
-#EXTINF:-1 channelId="7" tvg-name="ТВ 24" tvg-logo="http://webtv.a1.mk/kanali-img/tv24.jpg" group-title="Македонски Канали",TV 24
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
-
-#EXTINF:-1 channelId="8" tvg-name="Алсат М" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-alsatm.jpg" group-title="Македонски Канали",Alsat M
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
-
-#EXTINF:-1 channelId="9" tvg-name="ТВ 21" tvg-logo="http://webtv.a1.mk/kanali-img/tv21.jpg" group-title="Македонски Канали",TV 21
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
-
-#EXTINF:-1 channelId="10" tvg-name="Хуго 2" tvg-logo="" group-title="Македонски Канали",Hugo 2
-http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
-
-#EXTINF:-1 channelId="11" tvg-name="Наша ТВ" tvg-logo="" group-title="Македонски Канали",Nasha TV
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
-
-#EXTINF:-1 channelId="12" tvg-name="МТМ Скопска" tvg-logo="" group-title="Македонски Канали",MTM Skopska
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
-
-#EXTINF:-1 channelId="13" tvg-name="Алфа" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-alfa.jpg" group-title="Македонски Канали",Alfa
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
-
-#EXTINF:-1 channelId="14" tvg-name="ТВ Шења" tvg-logo="https://webtv.a1.mk/kanali-img/shenja.jpg" group-title="Македонски Канали",TV Shenja
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
-
-#EXTINF:-1 channelId="15" tvg-name="ТВ ЕРА" tvg-logo="" group-title="Македонски Канали",TV ERA
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
-
-#EXTINF:-1 channelId="16" tvg-name="Шутел" tvg-logo="" group-title="Македонски Канали",TV Shutel
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
