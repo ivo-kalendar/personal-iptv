@@ -8,19 +8,19 @@
 /////////////////////////////////////                        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 tvg-id="1" tvg-name="Test 1" tvg-logo="" group-title="Тест Канали",test 1
+#EXTINF:-1 channelId="1" tvg-name="Test 1" tvg-logo="" group-title="Тест Канали",test 1
 http://fta.hugo.mk:1935/live/tvhugo/stream/1.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Test 2" tvg-logo="" group-title="Тест Канали",test 2
+#EXTINF:-1 channelId="1" tvg-name="Test 2" tvg-logo="" group-title="Тест Канали",test 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Test 3" tvg-logo="" group-title="Тест Канали",test 3
+#EXTINF:-1 channelId="1" tvg-name="Test 3" tvg-logo="" group-title="Тест Канали",test 3
 http://fta.hugo.mk:1935/live/tvhugo/stream/3.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Test 2" tvg-logo="" group-title="Тест Канали",test 4
+#EXTINF:-1 channelId="1" tvg-name="Test 2" tvg-logo="" group-title="Тест Канали",test 4
 http://fta.hugo.mk:1936/live/tvhugo/stream/2.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Test vod" tvg-logo="" group-title="Тест Канали",test vod
+#EXTINF:-1 channelId="1" tvg-name="Test vod" tvg-logo="" group-title="Тест Канали",test vod
 http://moviesjoy.to/watch-movie/black-adam-82087.9064972
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -38,52 +38,52 @@ http://moviesjoy.to/watch-movie/black-adam-82087.9064972
 /////////////////////////////////////                        /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 tvg-id="1" tvg-name="МРТ 1" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-mrt1.jpg" group-title="Македонски Канали",MRT 1
+#EXTINF:-1 channelId="1" tvg-name="МРТ 1" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-mrt1.jpg" group-title="Македонски Канали",MRT 1
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="МРТ 2" tvg-logo="" group-title="Македонски Канали",MRT 2
+#EXTINF:-1 channelId="2" tvg-name="МРТ 2" tvg-logo="" group-title="Македонски Канали",MRT 2
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="МРТ 3 Собраниски Канал" tvg-logo="" group-title="Македонски Канали",MRT 3 Sobraniski Kanal
+#EXTINF:-1 channelId="3" tvg-name="МРТ 3 Собраниски Канал" tvg-logo="" group-title="Македонски Канали",MRT 3 Sobraniski Kanal
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="Сител" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-sitel.jpg" group-title="Македонски Канали",Sitel
+#EXTINF:-1 channelId="4" tvg-name="Сител" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-sitel.jpg" group-title="Македонски Канали",Sitel
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="Канал 5" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-kanal5.jpg" group-title="Македонски Канали",Kanal 5
+#EXTINF:-1 channelId="5" tvg-name="Канал 5" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-kanal5.jpg" group-title="Македонски Канали",Kanal 5
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="Телма" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-telma.jpg" group-title="Македонски Канали",Telma
+#EXTINF:-1 channelId="6" tvg-name="Телма" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-telma.jpg" group-title="Македонски Канали",Telma
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="ТВ 24" tvg-logo="http://webtv.a1.mk/kanali-img/tv24.jpg" group-title="Македонски Канали",TV 24
+#EXTINF:-1 channelId="7" tvg-name="ТВ 24" tvg-logo="http://webtv.a1.mk/kanali-img/tv24.jpg" group-title="Македонски Канали",TV 24
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="Алсат М" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-alsatm.jpg" group-title="Македонски Канали",Alsat M
+#EXTINF:-1 channelId="8" tvg-name="Алсат М" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-alsatm.jpg" group-title="Македонски Канали",Alsat M
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="ТВ 21" tvg-logo="http://webtv.a1.mk/kanali-img/tv21.jpg" group-title="Македонски Канали",TV 21
+#EXTINF:-1 channelId="9" tvg-name="ТВ 21" tvg-logo="http://webtv.a1.mk/kanali-img/tv21.jpg" group-title="Македонски Канали",TV 21
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="Хуго 2" tvg-logo="" group-title="Македонски Канали",Hugo 2
+#EXTINF:-1 channelId="10" tvg-name="Хуго 2" tvg-logo="" group-title="Македонски Канали",Hugo 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="Наша ТВ" tvg-logo="" group-title="Македонски Канали",Nasha TV
+#EXTINF:-1 channelId="11" tvg-name="Наша ТВ" tvg-logo="" group-title="Македонски Канали",Nasha TV
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="МТМ Скопска" tvg-logo="" group-title="Македонски Канали",MTM Skopska
+#EXTINF:-1 channelId="12" tvg-name="МТМ Скопска" tvg-logo="" group-title="Македонски Канали",MTM Skopska
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="Алфа" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-alfa.jpg" group-title="Македонски Канали",Alfa
+#EXTINF:-1 channelId="13" tvg-name="Алфа" tvg-logo="http://webtv.a1.mk/kanali-img/web-tv-alfa.jpg" group-title="Македонски Канали",Alfa
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="ТВ Шења" tvg-logo="https://webtv.a1.mk/kanali-img/shenja.jpg" group-title="Македонски Канали",TV Shenja
+#EXTINF:-1 channelId="14" tvg-name="ТВ Шења" tvg-logo="https://webtv.a1.mk/kanali-img/shenja.jpg" group-title="Македонски Канали",TV Shenja
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="ТВ ЕРА" tvg-logo="" group-title="Македонски Канали",TV ERA
+#EXTINF:-1 channelId="15" tvg-name="ТВ ЕРА" tvg-logo="" group-title="Македонски Канали",TV ERA
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="Шутел" tvg-logo="" group-title="Македонски Канали",TV Shutel
+#EXTINF:-1 channelId="16" tvg-name="Шутел" tvg-logo="" group-title="Македонски Канали",TV Shutel
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -108,9 +108,6 @@ http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 /////////////////////////////////////    Music    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////             ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Music" logo="https://i.imgur.com/yKJmkNk.png", MUSIC + (720p) [Not 24/7]
-http://s02.diazol.hu:10192/stream.m3u8
 
 #EXTINF:0 type="favorites" channelId="4455" group-title="Music", Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -171,6 +168,9 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTINF:0 type="favorites" channelId="-1" group-title="Movies", Pluto TV Movies (England) (684p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
 
+#EXTINF:0 type="favorites" channelId="-1" group-title="Movies" logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png", Pluto TV Family (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -196,9 +196,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225
 /////////////////////////////////////                   //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:0 type="favorites" channelId="1202" group-title="Documentary", History 2 HD
-http://109.105.205.250:8081/live/HISTORY2/playlist.m3u8
-
 #EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png", History East (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
@@ -223,9 +220,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef
 #EXTINF:0 type="favorites" channelId="-1" group-title="Documentary", Pluto TV Crime (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png", Pluto TV Documentaries (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=
-
 #EXTINF:0 type="favorites" channelId="-1" group-title="Documentary", Pluto TV My5 Documentaries (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=
 
@@ -237,18 +231,6 @@ http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group-title="Documentary", True History (720p)
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
-
-#EXTINF:0 type="favorites" channelId="166" group-title="Documentary", Viasat History (480p)
-http://ott-cdn.ucom.am/s23/index.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="https://i.imgur.com/DyT5pKB.png", Viasat Explore Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="https://i.imgur.com/wRP9XA7.png", Viasat History Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="https://i.imgur.com/ousRqqD.png", Viasat Nature Russia (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group-title="Documentary" logo="https://i.imgur.com/qTbCyOj.png", Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
@@ -308,12 +290,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 
 #EXTINF:0 type="favorites" channelId="-1" group-title="Entertainment" logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png", Pluto TV Comedy Central (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4947590ba40f75dc29c26b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5ca4fefb-0728-11eb-a18c-0242ac110002&terminate=false&userId=
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Entertainment" logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png", Pluto TV FailArmy (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:0 type="favorites" channelId="-1" group-title="Entertainment" logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png", Pluto TV Family (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:0 type="favorites" channelId="-1" group-title="Entertainment" logo="https://f9q4g5j6.ssl.hwcdn.net/5fd9322332850459227a39b8", Zen
 https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
