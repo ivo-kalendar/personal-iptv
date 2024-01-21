@@ -359,35 +359,35 @@ https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 1
-https://hls.telekabel.com.mk:1936/live/1/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 11
+https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 2
-https://hls.telekabel.com.mk:1936/live/2/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 12
+https://hls.telekabel.com.mk:1936/live/12/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 3
-https://hls.telekabel.com.mk:1936/live/3/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 13
+https://hls.telekabel.com.mk:1936/live/13/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 4
-https://hls.telekabel.com.mk:1936/live/4/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 14
+https://hls.telekabel.com.mk:1936/live/14/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 5
-https://hls.telekabel.com.mk:1936/live/5/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 15
+https://hls.telekabel.com.mk:1936/live/15/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 6
-https://hls.telekabel.com.mk:1936/live/6/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 16
+https://hls.telekabel.com.mk:1936/live/16/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 7
-https://hls.telekabel.com.mk:1936/live/7/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 17
+https://hls.telekabel.com.mk:1936/live/17/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 8
-https://hls.telekabel.com.mk:1936/live/8/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 18
+https://hls.telekabel.com.mk:1936/live/18/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 9
-https://hls.telekabel.com.mk:1936/live/9/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 19
+https://hls.telekabel.com.mk:1936/live/19/playlist.m3u8
 
-#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 10
-https://hls.telekabel.com.mk:1936/live/10/playlist.m3u8
+#EXTINF:0 channelId="7" group-title="Телекабел Канали",Telekabel 20
+https://hls.telekabel.com.mk:1936/live/20/playlist.m3u8
 
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
