@@ -6,3 +6,5 @@ blob:https://tvstanici.net/1bd4aa7c-7552-4881-8576-fce71860da7a
 #EXTINF:-1
 https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
 
+#EXTINF:-1
+http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt1-sat/playlist.m3u8
