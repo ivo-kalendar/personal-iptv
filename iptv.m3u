@@ -52,7 +52,7 @@ http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 
 #EXTINF:0 channelId="13" group-title="Македонски Канали",Алфа
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+https://teve.mk/tvstanici/alfa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDEwOjMzOjUwIFBNJmhhc2hfdmFsdWU9SXNkTVJvRjNwNXl6K256dTJES3c1QT09JnZhbGlkbWludXRlcz03JmlkPTU=
 
 #EXTINF:0 channelId="14" group-title="Македонски Канали",TV Shenja
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
