@@ -6,3 +6,9 @@ blob:https://tvstanici.net/1bd4aa7c-7552-4881-8576-fce71860da7a
 #EXTINF:-1
 https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
 
+#EXTINF:-1
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+
+#EXTINF:-1
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+
