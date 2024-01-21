@@ -19,13 +19,13 @@ https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2Vy
 https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MjI6MjcgUE0maGFzaF92YWx1ZT1MRzlCeDBLZjNVT0QrajJhVkNHNlRnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZDAzNjMwZDk=
 
 #EXTINF:0 channelId="4" group-title="Македонски Канали",Сител
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDEwOjIyOjU0IFBNJmhhc2hfdmFsdWU9QjIvcEVRWTBjTm1mZFBjSTR1Z25JZz09JnZhbGlkbWludXRlcz03JmlkPTU=
 
 #EXTINF:0 channelId="5" group-title="Македонски Канали",Канал 5
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
+https://s2.teve.mk/tvstanici/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDEwOjI0OjU0IFBNJmhhc2hfdmFsdWU9Mkh3OVNaOGtmaXMxdHF2d2wvSDE2dz09JnZhbGlkbWludXRlcz03JmlkPTU=
 
 #EXTINF:0 channelId="6" group-title="Македонски Канали",Телма
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+https://teve.mk/tvstanici/telma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDEwOjI2OjI1IFBNJmhhc2hfdmFsdWU9RnBMZEJPcXFMczNKWXk4K1V6WkVydz09JnZhbGlkbWludXRlcz03JmlkPTU=
 
 #EXTINF:0 channelId="7" group-title="Македонски Канали",ТВ 24
 https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
