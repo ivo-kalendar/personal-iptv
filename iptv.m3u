@@ -13,10 +13,10 @@
 https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MDY6MDEgUE0maGFzaF92YWx1ZT1mYitPUCtSVXRWSm9WTnBzbGlQa2xRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3OTI5YjU5YTY=
 
 #EXTINF:0 channelId="2" group-title="Македонски Канали",МРТ 2
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MTU6MTMgUE0maGFzaF92YWx1ZT1ycWhpQllHS1krZEZ0MktZNmtHRDNBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3YjUxNDExOWU=
 
 #EXTINF:0 channelId="3" group-title="Македонски Канали",МРТ 3 Sobraniski Kanal
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MjI6MjcgUE0maGFzaF92YWx1ZT1MRzlCeDBLZjNVT0QrajJhVkNHNlRnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZDAzNjMwZDk=
 
 #EXTINF:0 channelId="4" group-title="Македонски Канали",Сител
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
@@ -56,6 +56,42 @@ http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
 
 #EXTINF:0 channelId="16" group-title="Македонски Канали",TV Шутел
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+
+
+
+/////////////////////////////////////  МАКЕДОНСКИ МРТВ КАНАЛИ ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:0 channelId="17" group-title="Македонски Канали",МРТ 3 Sportski Kanal
+https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MTc6MTAgUE0maGFzaF92YWx1ZT1IT2RyRzJ4RjFNdTNLN0crTW96c013PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3YmM2MDI5ZGE=
+
+#EXTINF:0 channelId="18" group-title="Македонски Канали",МРТ 4 Kanal
+https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MTk6MzggUE0maGFzaF92YWx1ZT1OQTJ1Y1ljQ2Y2SGJnQkUwbytodmZnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3YzVhMzcyOWE=
+
+#EXTINF:0 channelId="19" group-title="Македонски Канали",МРТ 5 Kanal
+https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MjA6NTAgUE0maGFzaF92YWx1ZT1IOVAvSm80akxrRUFXek4wak04cXV3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3Y2EyMTQ3ZTQ=
+
+#EXTINF:0 channelId="20" group-title="Македонски Канали",МРТ 1 SAT
+https://vod-c57.interspace.com:443/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MjM6NDUgUE0maGFzaF92YWx1ZT04SnFTYjdOV2g4ekJ3NjFUazJJV0dBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZDUxZDZlOGE=
+
+#EXTINF:0 channelId="21" group-title="Македонски Канали",МРТ 2 SAT
+https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MjQ6MjUgUE0maGFzaF92YWx1ZT11dnZhdGtnZTlxUDNOQWJaMjNIeGd3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZDc5OWI1NmI=
+
+
+
+/////////////////////////////////////  МАКЕДОНСКО РАДИО ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:0 channelId="22" group-title="Македонски Канали",Мakedonsko Radio 1
+https://vod-c57.interspace.com:443/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MjU6NDEgUE0maGFzaF92YWx1ZT00cDZORzhFRkkyUGpLUFBWYkZzN1V3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZGM1MDk2NTk=
+
+#EXTINF:0 channelId="23" group-title="Македонски Канали",Мakedonsko Radio 2
+https://vod-c57.interspace.com:443/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6Mjg6NTEgUE0maGFzaF92YWx1ZT1IODB6U1B1WDk3cUtGUnNEWVBGeE9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZTgzMWJhODU=
+
+#EXTINF:0 channelId="24" group-title="Македонски Канали",Мakedonsko Radio 3
+https://vod-c57.interspace.com:443/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6Mjk6MzAgUE0maGFzaF92YWx1ZT1CckR5RVd4N2toVSsvb05YSFN5U0tBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZWFhNGQyMDI=
+
+#EXTINF:0 channelId="25" group-title="Македонски Канали",Мakedonsko Radio SAT
+https://vod-c57.interspace.com:443/channel_abr/50/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MzA6MDIgUE0maGFzaF92YWx1ZT1vZHpyODR2R0Y5R1MrUkw4QUVmMmRRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3ZWNhNzc0MDg=
+
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
