@@ -36,10 +36,13 @@ http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u
 #EXTINF:0 channelId="9" group-title="Македонски Канали",Hugo 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 
-#EXTINF:0 channelId="10" group-title="Македонски Канали",TV 21
+#EXTINF:0 channelId="10" group-title="Македонски Канали",In Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+
+#EXTINF:0 channelId="11" group-title="Македонски Канали",TV 21
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 
-#EXTINF:0 channelId="11" group-title="Македонски Канали",Наша TV
+#EXTINF:0 channelId="12" group-title="Македонски Канали",Наша TV
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
 
 #EXTINF:0 channelId="12" group-title="Македонски Канали",МТМ Скопска
