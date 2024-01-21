@@ -3,15 +3,6 @@
 #EXTINF:-1 
 blob:https://tvstanici.net/1bd4aa7c-7552-4881-8576-fce71860da7a
 
-#EXTINF:-1 
-https://tvstanici.net/1bd4aa7c-7552-4881-8576-fce71860da7a
-
-#EXTINF:-1 
-https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDY6MjU6NDIgUE0maGFzaF92YWx1ZT1LdjMyOGUxK2dyNXBjbVpzMFBlUjB3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-
-#EXTINF:-1 
-https://teve.mk/tvstanici/s1/playlist.m3u8
-
-#EXTINF:-1 
-https://tvstanici.net/sitel-vo-zivo/
+#EXTINF:-1
+https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
 
