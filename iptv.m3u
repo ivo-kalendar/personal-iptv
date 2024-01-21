@@ -10,7 +10,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #EXTINF:0 channelId="1" group-title="Македонски Канали",МРТ 1
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI0IDg6MDY6MDEgUE0maGFzaF92YWx1ZT1mYitPUCtSVXRWSm9WTnBzbGlQa2xRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1YWQ3OTI5YjU5YTY=
 
 #EXTINF:0 channelId="2" group-title="Македонски Канали",МРТ 2
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
