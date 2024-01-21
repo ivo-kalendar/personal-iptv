@@ -1,0 +1,40 @@
+http://get.centurionlukavac.com:80/get.php?username=nenad2&password=nenad2&type=m3u_plus&output=ts
+Real Url: 185.79.114.10:80     Status: Active    Created: 25-Jan-17 09:31:58     Expires: 09-Jan-20 21:00:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://get.centurionlukavac.com:80/get.php?username=toto&password=toto&type=m3u_plus&output=ts
+Real Url: 185.79.114.10:80     Status: Active    Created: 25-May-18 08:49:19     Expires: Null    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://get.centurionlukavac.com:80/get.php?username=toto3&password=toto3&type=m3u_plus&output=ts
+Real Url: 185.79.114.10:80     Status: Active    Created: 25-May-18 11:59:29     Expires: 25-Aug-19 12:28:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+#EXTM3U
+#EXTINF:-1,FOX
+https://hls.telekabel.com.mk:1936/live/71/2500-def.m3u8
+#EXTINF:-1,cartoonnetwork
+https://hls.telekabel.com.mk:1936/live/81/2500-def.m3u8
+#EXTINF:-1,TV 1000
+https://hls.telekabel.com.mk:1936/live/91/2500-def.m3u8
+#EXTINF:-1,Viasat History
+https://hls.telekabel.com.mk:1936/live/101/2500-def.m3u8
+#EXTINF:-1,Viasat Explore
+https://hls.telekabel.com.mk:1936/live/111/2500-def.m3u8
+#EXTINF:-1,Da vinci
+https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+#EXTINF:-1,cinemania
+https://hls.telekabel.com.mk:1936/live/131/2500-def.m3u8
+#EXTINF:-1,Eurosport 1
+https://hls.telekabel.com.mk:1936/live/141/2500-def.m3u8
+#EXTINF:-1,Eurosport 2
+https://hls.telekabel.com.mk:1936/live/151/2500-def.m3u8
+#EXTINF:-1,ВИС
+https://hls.telekabel.com.mk:1936/live/161/2500-def.m3u8
+#EXTINF:-1,24ЖИВО
+https://hls.telekabel.com.mk:1936/live/11/2500-def.m3u8
+#EXTINF:-1, 1
+https://hls.telekabel.com.mk:1936/live/21/2500-def.m3u8
+#EXTINF:-1, 2
+https://hls.telekabel.com.mk:1936/live/31/2500-def.m3u8
+#EXTINF:-1,Telekabel
+https://hls.telekabel.com.mk:1936/live/51/2500-def.m3u8
+#EXTINF:-1,CNN
+https://hls.telekabel.com.mk:1936/live/61/2500-def.m3u8
