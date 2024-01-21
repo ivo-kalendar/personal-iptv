@@ -28,7 +28,7 @@ http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
 
 #EXTINF:0 channelId="7" group-title="Македонски Канали",ТВ 24
-http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
+https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
 
 #EXTINF:0 channelId="8" group-title="Македонски Канали",Alsat M
 http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
