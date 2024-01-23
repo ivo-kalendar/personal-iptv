@@ -1,0 +1,470 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",RCTI HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",MNC TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="gtv.il" group-title="Indonesia Channels",GTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",TransTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Trans7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Moji
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Indosiar HD
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",NET TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",ANTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",DAAI TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+#EXTINF:0 tvg-id="rtvint" group-title="Indonesia Channels",RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Kompas TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:0 tvg-id="Metro.pl" group-title="Indonesia Channels",Metro TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",TVOne
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",SindoNews
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683193&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",iNews
+https://alpukat-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Indonesia Channels",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Investor Daily TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",TVRI Nasional
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indonesia Channels",Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="HBO Group",HBO
+https://zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:0 tvg-id="HBOHits.in" group-title="HBO Group",HBO Hits
+https://zozotv.xyz:443/rozila969/abc12345/97
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="HBO Group",HBO Family
+https://zozotv.xyz:443/rozila969/abc12345/98
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="HBO Group",HBO Signature
+https://zozotv.xyz:443/rozila969/abc12345/99
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="HBO Group",Cinemax
+https://zozotv.xyz:443/rozila969/abc12345/107
+
+#EXTINF:0 tvg-id="Paramount.es" group-title="Premium Movies",Paramount Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="Premium Movies",Hits
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",HitsMovies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Rock Action
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Galaxy Premium
+https://alpukat-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:0 tvg-id="galaxy" group-title="Premium Movies",Galaxy
+https://alpukat-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:0 tvg-id="Kix.uk" group-title="Premium Movies",KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Thriil
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Celestial Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Celestial Classic
+https://alpukat-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Cinema World HD
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Premium Movies",SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Sony GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",MyCinema
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",MyCinema Asia
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",My Family
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Cinemachi HD
+https://alpukat-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Cinemachi Kids HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683085&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Cinemachi Action HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683090&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Cinemachi Max HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683173&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Cinemachi Xtra HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683161&extension=ts&play_token=wJfTp9js5
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Indonesia Movie Channel
+https://alpukat-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Citra Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",FMN (Telenovela)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683143&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",Zee Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Premium Movies",Sony Max
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Premium Movies",Sony TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",ETV BIOSKOP 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",ETV BIOSKOP 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",ETV BIOSKOP 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+#EXTINF:0 tvg-id="ext" group-title="Premium Movies",ETV BIOSKOP 4
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
+#EXTINF:0 tvg-id="TVN.pl" group-title="Korean Channels",TVN
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Korean Channels",TvN movies HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Korean Channels",NaDoo Korean
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=lite&chname=NaDooKorean
+#EXTINF:0 tvg-id="ONE.ca" group-title="Korean Channels",ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Korean Channels",K+
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:0 tvg-id="kbs-world" group-title="Korean Channels",KBS WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Knowledge & Documentary",History HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Knowledge & Documentary",BBC Earth
+https://alpukat-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:0 tvg-id="outdoor" group-title="Knowledge & Documentary",Outdoor Channel
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683086&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="Knowledge & Documentary",Love Nature
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Knowledge & Documentary",Discovery Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Knowledge & Documentary",Discovery Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Knowledge & Documentary",Animal Planet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Knowledge & Documentary",Global Trekker
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Knowledge & Documentary",DMAX TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Knowledge & Documentary",Crime Investigation
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Knowledge & Documentary",CGTN Documentary
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Knowledge & Documentary",Stingray Nature Escape
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+
+#EXTINF:0 tvg-id="AXN.bg" group-title="Entertainment & LifeStyle",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Rock Entertainment
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:0 tvg-id="hgtv" group-title="Entertainment & LifeStyle",HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Asian Food Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:0 tvg-id="food-network-rus" group-title="Entertainment & LifeStyle",Food Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Travel & Taste
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+#EXTINF:0 tvg-id="tlc-russia" group-title="Entertainment & LifeStyle",TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Entertainment & LifeStyle",Warner TV
+http://xtv.ooo:8080/3212571066/abc123/351059
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Entertainment & LifeStyle",Lifetime
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Entertainment & LifeStyle",BBC Lifestyle
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Entertainment & LifeStyle",Discovery Home & Health
+http://xc.tvset.top:80/live/99814980/1Sg3Vf0J/54005.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",First Lifestyle
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",CelebritiesTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683126&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Vision Prime
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683124&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Citra Entertainment
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Citra Dangdut
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Citra Drama
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Citra Muslim
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",Entertainment
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683188&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="OKTO.at" group-title="Entertainment & LifeStyle",OK TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683105&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Entertainment & LifeStyle",OkZoneTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683128&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="tv5monde" group-title="Entertainment & LifeStyle",TV5 Monde
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
+#EXTINF:0 tvg-id="arirang-en" group-title="Entertainment & LifeStyle",Arirang
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
+#EXTINF:0 tvg-id="fashion" group-title="Entertainment & LifeStyle",Fashion TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+
+#EXTINF:0 tvg-id="cartoon" group-title="Kids",Cartoon Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Kids",Cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",MyKids
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="Kids",ZooMoo
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683172&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Kids",Horee
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="Kids",Dreamworks HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683171&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="Kids",Kids TV
+https://alpukat-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Kids",Nickelodeon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids",Nickelodeon Junior
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Kids",Cbeebies
+https://alpukat-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF:0 tvg-id="Animax.de" group-title="Kids",Animax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Aniplus
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Music TV
+https://alpukat-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Music",MTV Live HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+#EXTINF:0 tvg-id="MTV90s.eu" group-title="Music",MTV 90's
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Jazz
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Festival 4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Now 4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sportstars 1 HD
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sportstars 2 HD
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sportstars 3 HD
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sportstars 4 HD
+https://alpukat-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",Soccer Channel-HD
+https://alpukat-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",SpoTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",SpoTV 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sports",Fight Sports
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosports
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+#EXTINF:0 tvg-id="MotorvisionChannel.gr" group-title="Sports",MOTORVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Sports",Premier Sports
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News",Voice Of America
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="News",CNN International
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",ABC Australia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
+#EXTINF:0 tvg-id="AljazeeraEng.il" group-title="News",Al Jazeera
+https://alpukat-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+#EXTINF:0 tvg-id="ext" group-title="News",Ajazeera Arabic
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8
+#EXTINF:0 tvg-id="ID.hu" group-title="News",IDX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Jakarta Globe News
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b384000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Berita Satu World
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:0 tvg-id="CGTN.cn" group-title="News",CGTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="News",Bloomberg
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8
+#EXTINF:0 tvg-id="Nhk.br" group-title="News",NHK World Japan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
+#EXTINF:0 tvg-id="Nhk.br" group-title="News",NHK World Premium
+https://alpukat-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:0 tvg-id="FoxNews.it" group-title="News",FOX News
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683179&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="DW.al" group-title="News",DW
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",DW Germany
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8
+#EXTINF:0 tvg-id="france24" group-title="News",France 24
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
+#EXTINF:0 tvg-id="euro" group-title="News",Euronews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
+#EXTINF:0 tvg-id="bbc-world" group-title="News",BBC World
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="News",TRT World
+https://alpukat-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+#EXTINF:0 tvg-id="ext" group-title="News",SEA Today
+https://alpukat-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#EXTINF:0 tvg-id="ext" group-title="News",CNBC Asia
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683186&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="ext" group-title="News",CNA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Rusia Today
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8
+#EXTINF:0 tvg-id="tv5monde" group-title="News",TV 5 Monde
+https://alpukat-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+#EXTINF:0 tvg-id="ext" group-title="News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",FOX now
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+#EXTINF:0 tvg-id="Dw(deutsch+).br" group-title="News",DW Deutsch
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:0 tvg-id="RaiItalia.cl" group-title="News",Rai Italia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",CCTV4
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8
+
+#EXTINF:0 tvg-id="lifenews" group-title="Christian Channels",LIFE
+https://alpukat-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+#EXTINF:0 tvg-id="ext" group-title="Christian Channels",Reformed21
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8
+#EXTINF:0 tvg-id="EWTN.uk" group-title="Christian Channels",EWTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Christian Channels",Praise
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Christian Channels",Shine
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3900%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Christian Channels",Light
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3922%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Christian Channels",Kairos
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8
+
+#EXTINF:0 tvg-id="tv1-lt" group-title="Malaysia",TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+#EXTINF:0 tvg-id="tv2.hu" group-title="Malaysia",TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#EXTINF:0 tvg-id="tv3" group-title="Malaysia",TV3
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Dunia Sinema HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV Sarawak
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
+#EXTINF:0 tvg-id="tv6-lt" group-title="Malaysia",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+#EXTINF:0 tvg-id="8TV.lv" group-title="Malaysia",8TV
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",DidikTV KPM
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1731
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Bernama TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571307&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Drama Hebat
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Filem Mantap
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Lawak Sentral
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Drama HotPot
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Brunei",RTB Sukmaindera FHD
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Brunei",RTB Aneka FHD
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Brunei",RTB Go Live FHD
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:0 tvg-id="5kanal" group-title="Mediacorp SG",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0 tvg-id="ext" group-title="Mediacorp SG",Channel 8 / 8 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0 tvg-id="ext" group-title="Mediacorp SG",Channel U / U 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0 tvg-id="ext" group-title="Mediacorp SG",CNA
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0 tvg-id="ext" group-title="Mediacorp SG",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0 tvg-id="ext" group-title="Mediacorp SG",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="China",TVB Asia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",JiangsuTV
+https://alpukat-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="China",HunanTV
+https://alpukat-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="China",Shanghai Dragon TV
+https://alpukat-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="China",XingkongTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="China",Anhui TV
+https://alpukat-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",TV Desa
+https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Kilisuci TV Kediri
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Madu TV
+https://v6.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Jawapos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Kawanua TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Bali TV
+https://alpukat-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",JAK TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Dhoho TV- Kediri
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",Bandung TV
+https://alpukat-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",TATV Solo
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Local Channels",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",iRadio
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",Nagaswara FM
+https://live.nagaswarafm.com:9900/stream
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",OZ Radio FM
+http://45.64.97.211:1031/;stream.nsv
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",KISI FM Bogor
+http://live.serverstreaming.net:9340/kisifm
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+#EXTINF:0 tvg-id="ext" group-title="Internet Radio",KISI FM Bogor
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+
